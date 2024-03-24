@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Joaqu/Desktop/tp3/ej1/main.cpp
+iostream
+-
+iostream
+-
+vector
+C:/Users/Joaqu/Desktop/tp3/ej1/vector
+bits/stdc++.h
+-
+tuple
+C:/Users/Joaqu/Desktop/tp3/ej1/tuple
+queue
+-
+tuple
+-
+

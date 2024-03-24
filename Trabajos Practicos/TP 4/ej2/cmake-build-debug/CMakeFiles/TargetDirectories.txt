@@ -1,0 +1,3 @@
+C:/Users/Joaqu/Desktop/tp3/ej2/cmake-build-debug/CMakeFiles/ej2.dir
+C:/Users/Joaqu/Desktop/tp3/ej2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Joaqu/Desktop/tp3/ej2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
